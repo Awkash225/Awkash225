@@ -58,7 +58,7 @@
 
 ### 🌐 Connect With Me
 
-[**👔 Connect on LinkedIn**](https://www.linkedin.com/in/awkash-45536a37b) &nbsp;|&nbsp; [**📧 Send an Email**](mailto:awkurathore225@gmail.com)
+[**👔 Connect on LinkedIn**](https://www.linkedin.com/in/awkash-45536a37b) &nbsp;|&nbsp; <a href="mailto:awkurathore225@gmail.com">**📩 Send an Email**</a>
 
 </div>
 
