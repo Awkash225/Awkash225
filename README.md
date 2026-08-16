@@ -57,8 +57,15 @@
 
 
 ### 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/awkash-45536a37b" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:awkurathore225@gmail.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/awkash-45536a37b"><b>👔 Connect on LinkedIn</b></a> &nbsp;|&nbsp; <a href="mailto:awkurathore225@gmail.com"><b>📩 Send an Email</b></a>
 
 
 </div>
