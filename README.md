@@ -1,16 +1,78 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Awkash225/Awkash225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Awkash!
 
-Here are some ideas to get you started:
+### 🚀 Software Engineering Student @ FAST NUCES Islamabad
+*Transforming logic into elegant, structured software solutions.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 👤 About Me
+* 🏛️ Former Computer Science student at **FAST Karachi**
+* 📍 Currently studying Software Engineering at **FAST NUCES Islamabad**
+* 💻 Passionate about system logic, clean architectures, and modular code structures
+* ⚡ Constantly refining my technical foundational skills through hands-on lab projects
+
+<br>
+
+### 🛠️ Core Tech Stack
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+</td>
+<td valign="top" width="50%" align="center">
+
+### 🎨 Rendered Profile Art
+```text
+          ░░████████████░░          
+        ░██████████████████░        
+       ░████████████████████░       
+      ░██████████████████████░      
+     ░████████▀▀░░░░░░▀▀██████░     
+     ░██████░░░░░░   ░░░░░████░     
+     ░█████░  ░░░     ░░░  ███░     
+     ░████░    ▄▄     ▄▄    ██░     
+      ░██░    ░██░   ░██░   ██░     
+      ░██░     ░░     ░░    ██░     
+       ░█░        ▄▄        █░      
+       ░█░   ░          ░   █░      
+        ░░    ░░██████░░   ░░       
+        ░░░     ░░░░░░    ░░░       
+       ░████░░          ░░████░     
+     ░██████████░░░░░░██████████░   
+   ░██████████████████████████████░ 
+ ░██████████████████████████████████░
+░█████████░░██░░██████░░██░░█████████░
+░█████████░░██░░██████░░██░░█████████░
+```
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Git Activities & Stats
+<p align="center">
+  <img src="https://vercel.app" alt="Awkash's GitHub Stats" width="48%"/>
+  <img src="https://vercel.app" alt="Top Languages" width="45%"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:awkashrathore225@gmail.com">
+    <img src="https://shields.io" alt="Email"/>
+  </a>
+</p>
+
+</div>
