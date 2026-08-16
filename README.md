@@ -55,23 +55,10 @@
 
 <div align="center">
 
----
 
-### 📊 Git Activities & Stats
-<p align="center">
-  <img src="https://vercel.app" alt="Awkash's GitHub Stats" width="48%"/>
-  <img src="https://vercel.app" alt="Top Languages" width="45%"/>
-</p>
+### 🌐 Connect With Me
 
----
-
-<p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:awkashrathore225@gmail.com">
-    <img src="https://shields.io" alt="Email"/>
-  </a>
-</p>
+[**👔 Connect on LinkedIn**](https://linkedin.com) &nbsp;|&nbsp; [**📧 Send an Email**](mailto:awkashrathore225@gmail.com)
 
 </div>
+
