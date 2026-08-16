@@ -21,17 +21,9 @@
 
 <br>
 
-### 🛠️ Core Tech Stack
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-
 </td>
 <td valign="top" width="45%" align="center">
 
-### 🎨 Rendered Profile Art
 ```text
 .....................................
 .XXXXXXXXXXXXXx:....::::;xXXXXXXXXXX.
