@@ -7,6 +7,31 @@
 
 ---
 
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td valign="top" width="55%">
+
+### 👤 About Me
+* 🏛️ Former Computer Science student at **FAST Karachi**
+* 📍 Currently studying Software Engineering at **FAST NUCES Islamabad**
+* 💻 Passionate about system logic, clean architectures, and modular code structures
+* ⚡ Constantly refining my technical foundational skills through hands-on lab projects
+
+<br>
+
+### 🛠️ Core Tech Stack
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+</td>
+<td valign="top" width="45%" align="center">
+
+### 🎨 Rendered Profile Art
 ```text
 .....................................
 .XXXXXXXXXXXXXx:....::::;xXXXXXXXXXX.
@@ -32,22 +57,11 @@
 &&+....Xx&..&...&...$..:...&&&.&&&...
 ```
 
----
+</td>
+</tr>
+</table>
 
-### 👤 About Me
-* 🏛️ Former Computer Science student at **FAST Karachi**
-* 📍 Currently studying Software Engineering at **FAST NUCES Islamabad**
-* 💻 Passionate about system logic, clean architectures, and modular code structures
-* ⚡ Constantly refining my technical foundational skills through hands-on lab projects
-
-<br>
-
-### 🛠️ Core Tech Stack
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+<div align="center">
 
 ---
 
